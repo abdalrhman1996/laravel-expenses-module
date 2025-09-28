@@ -55,7 +55,7 @@ A modular Expense Management module for Laravel (12). Provides Create, Read, Upd
 
 ## Assumptions & Decisions
 
-1. Categories are validated via in: in FormRequest: travel, office, food, utilities, other. Replace or externalize to a config or enum as needed.
+1. Categories are validated via in: in FormRequest: Patrol, other_expenses. you can Replace or externalize to a config or enum as needed.
 
 2. UUID primary key is used via Laravel HasUuids.
 
