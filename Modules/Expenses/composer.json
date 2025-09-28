@@ -1,0 +1,8 @@
+{
+    "name": "task/laravel-expenses-module",
+    "autoload": {
+        "psr-4": {
+            "Modules\\Expenses\\": "Modules/Expenses/src/"
+        }
+    }
+}
